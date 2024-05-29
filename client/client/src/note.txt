@@ -1,0 +1,15 @@
+PORT=8000
+DB_URL="mongodb+srv://mayadihno:babatunde@cluster0.qjcyzfy.mongodb.net/?retryWrites=true&w=majority"
+JWT_SECRET_KEY=qwewtryujdtryhstzfweDzbnhdxbgzdf
+JWT_EXPIRES= 7d
+ACTIVATION_SECRET=bUg6tXpYs3vNvB9r7jKwHfDmGd1dAqZcRfUjXnZr4u7xGzJcE2v5y8B
+SMPT_HOST= smtp.gmail.com
+SMPT_PORT= 465
+SMPT_MAIL= mayadihno@gmail.com
+SMPT_PASSWORD= hcctsioeuyavatud
+SMPT_SERVICE= gmail
+STRIPE_SECRET_KEY=sk_test_51OS37fKmentvEjB1k67MiNCHE6zkFI1kfLonJL4g0QF3otWvTbByJ5nmXhyff6D87GqXT6EmUqb4rCXlLgCVzBO800jH8tOEeo
+STRIPE_API_KEY=pk_test_51OS37fKmentvEjB1KmMvnhYxzQLaWWyDKIvKQhC845TIBCEx3qXL6q9CCIVYDp8PNa3UyszdxaC7rPfmiVfrs7zD00yKeaWHDl
+
+
+//socket    PORT=4001
